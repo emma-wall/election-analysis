@@ -30,5 +30,5 @@ I wanted to find how many votes were cast, the number of votes each candidate re
 
 
 ## Election-Audit Summary
-Although this analysis only looks at the 2018 House of Representatives Race for the 1st District in CO, the code can easily be manipulated to run results for more districts and other elections. If we wanted to calculate the results for the U.S. Senate Race as well, we could easily add more variables and replicate the existing code to run for the new senate variables. This code would also be used to run an analysis on all the districts in CO. We could use the ```groupby``` function to group the results by each district. 
+Although this analysis only looks at the 2018 House of Representatives Race for the 1st District in CO, the code can easily be manipulated to run results for more districts and other elections. If we wanted to calculate the results for the U.S. Senate Race as well, we could easily add more variables and replicate the existing code to run for the new senate variables. This code could also be used to run an analysis on all the districts in CO. We could use the ```groupby``` function to group the results by each district. 
 
