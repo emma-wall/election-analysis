@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview
-This analysis uses Python to obtain the 2018 election results for the House of Representatives Race in the 1st District in Colorado. In this analysis I use for loops, conditionals to read a CSV file with the data and print the election outcomes to a text file. 
+This analysis uses Python to obtain the 2018 election results for the House of Representatives Race in the 1st District in Colorado. In this analysis I use for loops and conditionals to read a CSV file with the data and print the election outcomes to a text file. 
 
 
 ## Election-Audit Results
