@@ -23,7 +23,7 @@ I wanted to find how many votes were cast, the number of votes each candidate re
 
     ![Screen Shot 2021-05-09 at 5 18 56 PM](https://user-images.githubusercontent.com/80648379/117587215-dbb77000-b0ea-11eb-9d5a-1034cfa067be.png)
 
-* Winner Summary:
+* Winning Candidate Summary:
 
     ![Screen Shot 2021-05-09 at 5 19 02 PM](https://user-images.githubusercontent.com/80648379/117587205-d528f880-b0ea-11eb-877a-2cb5486a125d.png)
 
